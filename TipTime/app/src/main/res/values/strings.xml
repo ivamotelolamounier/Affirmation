@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="como_presta_servico">Como foi a prestação do serviço?</string>
+    <string name="como_atendimento">Como foi o atendimento?</string>
+    <string name="excelente_20">Excelente (20%)</string>
+    <string name="bom_trabalho_15">Bom trabalho (15%)</string>
+    <string name="normal_10">Normal (10%)</string>
+    <string name="arrendondar_a_gorjeta">Arrendondar a gorjeta?</string>
+</resources>

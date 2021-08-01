@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Ageo 1.0 - Agenda Geolocalizadora"
